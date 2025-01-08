@@ -82,7 +82,7 @@ PostgreSQL
 
 Clonar este repositorio:
 
-git clone https://github.com/no-contry/simulado-s20-10-data.git
+git clone https://github.com/No-Country-simulation/s20-10-data.git
 
 Instalar las dependencias:
 
