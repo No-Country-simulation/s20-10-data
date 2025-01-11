@@ -2,7 +2,9 @@
 
 📊 Descripción del Proyecto
 
-El proyecto Simulado-S20-10-Data está diseñado como una simulación laboral para la empresa ficticia No Contry, enfocada en el análisis de datos y pruebas A/B. El objetivo principal es mejorar la toma de decisiones basada en datos, utilizando experimentos controlados que permitan validar hipótesis de negocio y optimizar estrategias.
+El proyecto Simulado-S20-10-Data está diseñado como una simulación laboral para No Contry, enfocada en el análisis de datos y pruebas A/B. El objetivo principal es mejorar la toma de decisiones basada en datos, utilizando experimentos controlados que permitan validar hipótesis de negocio y optimizar estrategias.
+
+---
 
 🎯 Objetivo
 
@@ -14,19 +16,27 @@ Realizar un análisis exhaustivo de los resultados de pruebas A/B implementadas 
 
 📈 Generar reportes accionables que respalden decisiones de negocio fundamentadas.
 
-📚 Tecnologías Utilizadas
+---
 
-Lenguajes: Python, R, SQL
+## Colaboradores 💻👨‍💻👩‍💻
 
-Librerías y Herramientas:
+- **Katia Berrios:**  Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-berrios/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/KtiaBM)
+- **Melisa Rossi:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]( ) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MelRossi)
+- **Rosa González:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/rosa-isela-gonzález-díaz)[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Rox-0864)
+- **Ángel Troncoso:** Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
 
-Python: Pandas, NumPy, Matplotlib, SciPy, Seaborn
+---
 
-R: dplyr, ggplot2, tidyr
+## Tecnologías Usadas 🛠️
 
-Bases de datos: PostgreSQL
+- **Trello:** Herramienta de Gestión de Proyectos [![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- **GitHub y Colab:** Desarrollo Colaborativo y Control de Versiones. [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+- **Slack:** Comunicación diaria del equipo y colaboración en tiempo real.[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
+- **Google Meet:** Reuniones diarias, planificación de sprint y coordinación de trabajo.[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/)
+- **WhatsApp:** Comunicación instantánea para cuestiones urgentes.[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://www.whatsapp.com/)
+- **Google Drive:** Almacenamiento y sincronización de documentación.[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/)
 
-Plataformas de visualización: Power BI, Tableau
+---
 
 🔄 Flujo de Trabajo
 
@@ -66,6 +76,7 @@ Visualización y Reporte:
 └── README.md          # 📝 Descripción del proyecto
 ```
 
+---
 🔧 Requisitos Previos
 
 🎓 Conocimiento básico de estadística y pruebas A/B.
@@ -74,9 +85,9 @@ Entorno configurado con:
 
 Python 3.8+
 
-R 4.0+
+Google Colaboraty
 
-PostgreSQL
+Google Drive
 
 🔄 Configuración del Entorno
 
@@ -94,6 +105,8 @@ Crear una base de datos: no_contry_ab_testing
 
 Ejecutar los scripts de inicialización en scripts/db_init.sql.
 
+---
+
 🕹️ Uso
 
 📚 Cargar los datos simulados en la base de datos.
@@ -101,6 +114,8 @@ Ejecutar los scripts de inicialización en scripts/db_init.sql.
 📓 Ejecutar los notebooks de análisis para obtener resultados iniciales.
 
 📊 Generar reportes con visualizaciones y conclusiones.
+
+---
 
 🔄 Contribución
 
