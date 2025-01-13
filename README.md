@@ -21,7 +21,7 @@ Realizar un análisis exhaustivo de los resultados de pruebas A/B implementadas 
 ## Colaboradores 💻👨‍💻👩‍💻
 
 - **Katia Berrios:**  Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-berrios/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/KtiaBM)
-- **Melisa Rossi:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/melisa-rossi-lagger) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MelRossi)
+- **Melisa Rossi:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-rossi-lagger/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MelRossi)
 - **Rosa González:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/rosa-isela-gonzález-díaz)[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Rox-0864)
 - **Ángel Troncoso:** Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
 
