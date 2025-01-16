@@ -1,22 +1,29 @@
-🔧 Proyecto Simulado S20-10-Data: Testing A/B
+🔧  "Análisis Estadístico y Predictivo de Respuesta al Tratamiento en Pacientes Oncológicos"
 
 📊 Descripción del Proyecto
 
-El proyecto Simulado-S20-10-Data está diseñado como una simulación laboral para No Contry, enfocada en el análisis de datos y pruebas A/B. El objetivo principal es mejorar la toma de decisiones basada en datos, utilizando experimentos controlados que permitan validar hipótesis de negocio y optimizar estrategias.
-
----
+Introducción:
+La respuesta al tratamiento en pacientes oncológicos es un factor crítico para evaluar la efectividad de las intervenciones terapéuticas. Este estudio combina análisis estadísticos descriptivos y métodos predictivos para identificar los factores clínicos y terapéuticos más relevantes asociados al éxito del tratamiento.
 
 🎯 Objetivo
+Analizar y predecir la respuesta al tratamiento en pacientes oncológicos mediante técnicas estadísticas avanzadas y modelos de aprendizaje automático, utilizando datos clínicos y terapéuticos.
 
-Realizar un análisis exhaustivo de los resultados de pruebas A/B implementadas en un entorno simulado para:
+Metodología:
+Se analizó un conjunto de datos clínicos que incluye variables demográficas, características del tumor, tipo de tratamiento, y respuesta al mismo, clasificada en una variable binaria (éxito o fracaso). 
+El análisis se dividió en tres fases principales:
+1. Exploración y limpieza de datos, incluyendo la normalización de variables categóricas y el tratamiento de valores atípicos.
+2. Análisis estadístico para evaluar asociaciones significativas entre las variables clínicas y la respuesta al tratamiento, empleando testing AB basados en pruebas como chi-cuadrado dada la naturaleza de los datos,permite evaluar la independencia general entre las variables, lo que incluye cualquier patrón de asociación (no solo una diferencia de proporciones).
+3. Análisis multivariable.
+4. Desarrollo de un modelo predictivo (regresión logística y random forest) para identificar factores clave asociados al éxito terapéutico y predecir la respuesta con métricas como precisión, sensibilidad y AUC-ROC.
 
-🔍 Evaluar el impacto de distintas variables en el comportamiento del usuario.
+Resultados esperados:
+Se espera identificar variables significativas que influyen en la respuesta al tratamiento, como características del tumor, tipo de cirugía previa, o técnica de radioterapia utilizada. Además, los modelos predictivos desarrollados proporcionarán una herramienta útil para predecir el éxito terapéutico, optimizando la toma de decisiones clínicas.
 
-🌐 Determinar la versión más efectiva de un producto, servicio o interfaz.
+Conclusión:
+Este análisis combina técnicas estadísticas y de aprendizaje automático para aportar conocimiento sobre los factores determinantes en la respuesta al tratamiento en pacientes oncológicos, contribuyendo a mejorar la personalización de las intervenciones terapéuticas.
 
-📈 Generar reportes accionables que respalden decisiones de negocio fundamentadas.
 
----
+
 
 ## Colaboradores 💻👨‍💻👩‍💻
 
