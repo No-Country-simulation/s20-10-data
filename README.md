@@ -45,7 +45,7 @@ Este análisis combina técnicas estadísticas y de aprendizaje automático para
 
 ---
 
-🔄 Flujo de Trabajo
+🔄 Flujo de Trabajo: metodologias Agiles Scrum y Kanban  
 
 Definición del Experimento:
 
@@ -92,7 +92,7 @@ Entorno configurado con:
 
 Python 3.8+
 
-Google Colaboraty
+Google Colaboratory (Colab)
 
 Google Drive
 
