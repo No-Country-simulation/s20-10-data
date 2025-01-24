@@ -12,9 +12,16 @@ Metodología:
 Se analizó un conjunto de datos clínicos que incluye variables demográficas, características del tumor, tipo de tratamiento, y respuesta al mismo, clasificada en una variable binaria (éxito o fracaso). 
 El análisis se dividió en tres fases principales:
 1. Exploración y limpieza de datos, incluyendo la normalización de variables categóricas y el tratamiento de valores atípicos.
-2. Análisis estadístico para evaluar asociaciones significativas entre las variables clínicas y la respuesta al tratamiento, empleando testing AB basados en pruebas como chi-cuadrado dada la naturaleza de los datos,permite evaluar la independencia general entre las variables, lo que incluye cualquier patrón de asociación (no solo una diferencia de proporciones).
-3. Análisis multivariable.
-4. Desarrollo de un modelo predictivo (regresión logística y random forest) para identificar factores clave asociados al éxito terapéutico y predecir la respuesta con métricas como precisión, sensibilidad y AUC-ROC.
+2. Análisis estadístico para evaluar asociaciones significativas entre las variables clínicas y la respuesta al tratamiento.Empleando testing AB basados en pruebas como chi-cuadrado dada la naturaleza de los datos,con el objetivo de e evaluar la relación general entre las variables, lo que incluye cualquier patrón de asociación (no solo una diferencia de proporciones).
+   a) Relación entre Tumor Primario y Localización.
+   b) Análisis entre Tratamiento Sistemico y Respuesta al tratamiento.
+   c) Análisis entre DOSIS (Gy) (Cantidad de energía absorbida por un tejido debido a la radiación ionizante) y Respuesta       al tratamiento.
+   d) Análisis entre Perfil Molecular y Resṕuesta al tratamiento.
+   e) Analisis entre Cirugia Previa y Resṕuesta al tratamiento.
+   f) Analisis de la relación entre la variable SRS y la respuesta al tratamiento 
+   
+4. Análisis multivariable.
+5. Desarrollo de un modelo predictivo (regresión logística y random forest) para identificar factores clave asociados al éxito terapéutico y predecir la respuesta con métricas como precisión, sensibilidad y AUC-ROC.
 
 Resultados esperados:
 Se espera identificar variables significativas que influyen en la respuesta al tratamiento, como características del tumor, tipo de cirugía previa, o técnica de radioterapia utilizada. Además, los modelos predictivos desarrollados proporcionarán una herramienta útil para predecir el éxito terapéutico, optimizando la toma de decisiones clínicas.
