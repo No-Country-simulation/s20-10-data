@@ -34,10 +34,10 @@ Este análisis combina técnicas estadísticas y de aprendizaje automático para
 
 ## Colaboradores 💻👨‍💻👩‍💻
 
-- **Katia Berrios:**  Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-berrios/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/KtiaBM)
-- **Melisa Rossi:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-rossi-lagger/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MelRossi)
-- **Rosa González:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-isela-gonz%C3%A1lez-d%C3%ADaz/)[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Rox-0864)
-- **Ángel Troncoso:** Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Perú" width="25"> **Katia Berrios:**  Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-berrios/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/KtiaBM)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="25"> **Melisa Rossi:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-rossi-lagger/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MelRossi)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="México" width="25"> **Rosa González:** Data Scientist [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-isela-gonz%C3%A1lez-d%C3%ADaz/)[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Rox-0864)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile" width="25"> **Ángel Troncoso:** Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
 
 ---
 
