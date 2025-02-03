@@ -29,8 +29,8 @@ Se espera identificar variables significativas que influyen en la respuesta al t
 Conclusión:
 Este análisis combina técnicas estadísticas y de aprendizaje automático para aportar conocimiento sobre los factores determinantes en la respuesta al tratamiento en pacientes oncológicos, contribuyendo a mejorar la personalización de las intervenciones terapéuticas.
 
-
-
+🎥 Presentación:
+[Ver video](https://www.canva.com/design/DAGeDTjhcWY/JcEgcg4MrTYUXovJvqbVFw/watch?utm_content=DAGeDTjhcWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfadcdeb354)
 
 ## Colaboradores 💻👨‍💻👩‍💻
 
