@@ -31,7 +31,9 @@ Este análisis combina técnicas estadísticas y de aprendizaje automático para
 
 🎥 Presentación:
 https://gamma.app/docs/Neuro-TX-Latam-Analisis-Estadistico-y-Predictivo-de-Respuesta-al--ac94pz9q7jdvupq
-
+Aplicación:
+https://neuro-tx-latam.streamlit.app/
+Promoción:
 [Ver video](https://www.canva.com/design/DAGeDTjhcWY/JcEgcg4MrTYUXovJvqbVFw/watch?utm_content=DAGeDTjhcWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfadcdeb354)
 
 ## Colaboradores 💻👨‍💻👩‍💻
