@@ -48,6 +48,7 @@ Promoción:
 ## Tecnologías Usadas 🛠️
 
 - **Trello:** Herramienta de Gestión de Proyectos [![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- **Linear:**  Herramienta de Gestión de Proyectos Agiles [![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](https://linear.app/s20-10-data/team/S20/all)
 - **GitHub y Colab:** Desarrollo Colaborativo y Control de Versiones. [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 - **Slack:** Comunicación diaria del equipo y colaboración en tiempo real.[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
 - **Google Meet:** Reuniones diarias, planificación de sprint y coordinación de trabajo.[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/)
