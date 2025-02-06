@@ -21,10 +21,10 @@ El análisis se dividió en tres fases principales:
    f) Analisis de la relación entre la variable SRS y la respuesta al tratamiento 
    
 4. Análisis multivariable.
-5. Desarrollo de un modelo predictivo (regresión logística y random forest) para identificar factores clave asociados al éxito terapéutico y predecir la respuesta con métricas como precisión, sensibilidad y AUC-ROC.
+5. Desarrollo de un modelo predictivo (Random Forest Classifier) para identificar factores clave asociados al éxito terapéutico y predecir la respuesta con métricas como precisión, sensibilidad y AUC-ROC.
 
 Resultados esperados:
-Se espera identificar variables significativas que influyen en la respuesta al tratamiento, como características del tumor, tipo de cirugía previa, o técnica de radioterapia utilizada. Además, los modelos predictivos desarrollados proporcionarán una herramienta útil para predecir el éxito terapéutico, optimizando la toma de decisiones clínicas.
+Se espera identificar variables significativas que influyen en la respuesta al tratamiento, como características del tumor, cirugía previa,Dosis de radiación, técnica de radioterapia utilizada, tipo de tratamiento. Además, los modelos predictivos desarrollados proporcionarán una herramienta útil para predecir el éxito terapéutico, optimizando la toma de decisiones clínicas.
 
 Conclusión:
 Este análisis combina técnicas estadísticas y de aprendizaje automático para aportar conocimiento sobre los factores determinantes en la respuesta al tratamiento en pacientes oncológicos, contribuyendo a mejorar la personalización de las intervenciones terapéuticas.
@@ -62,15 +62,15 @@ Definición del Experimento:
 
 Recopilación de Datos:
 
-💡 Simulación de interacciones de usuario con las dos versiones del producto.
-
 📂 Almacenamiento en bases de datos estructuradas.
 
 Análisis Estadístico:
 
 🎯 Pruebas de hipótesis (e.g., t-test, chi-cuadrado).
 
-🔢 Cálculo de métricas clave: tasa de conversión, tiempo promedio en la página, retención.
+🔢 Analis Multivariable 
+
+Desarrollo y enrenamiento del Modelo Predictivo.
 
 Visualización y Reporte:
 
@@ -113,13 +113,9 @@ Instalar las dependencias:
 
 pip install -r requirements.txt
 
-Configurar la base de datos PostgreSQL:
+Crear bases de datos para los diferenes procesos
 
-Crear una base de datos: no_contry_ab_testing
 
-Ejecutar los scripts de inicialización en scripts/db_init.sql.
-
----
 
 🕹️ Uso
 
@@ -127,7 +123,9 @@ Ejecutar los scripts de inicialización en scripts/db_init.sql.
 
 📓 Ejecutar los notebooks de análisis para obtener resultados iniciales.
 
-📊 Generar reportes con visualizaciones y conclusiones.
+📊 Desplegar la aplicación de streamlit creada para el proyecto en donde se pueden revisar diferentes tipos de visualizacionbes y tambien cargar un archivo para realizar una predicción 
+https://neuro-tx-latam.streamlit.app/
+
 
 ---
 
@@ -141,6 +139,4 @@ Este proyecto está abierto para mejoras y colaboraciones. Si deseas contribuir:
 
 📢 Envía un pull request con una descripción clara de los cambios.
 
-📚 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
