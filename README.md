@@ -29,6 +29,11 @@ Se espera identificar variables significativas que influyen en la respuesta al t
 Conclusión:
 Este análisis combina técnicas estadísticas y de aprendizaje automático para aportar conocimiento sobre los factores determinantes en la respuesta al tratamiento en pacientes oncológicos, contribuyendo a mejorar la personalización de las intervenciones terapéuticas.
 
+Recomendaciones:
+Implementar un formato estandarizado que prevenga la entrada de datos incorrectos, garantizando su adecuado procesamiento e interpretación. Esta mejora optimizó la base de datos en Excel proporcionada por la médica, fortaleciendo los filtros y validando la información para asegurar su precisión en historiales futuros.  
+
+Esta versión mejora la redacción, precisión y formalidad del mensaje. ¿Te gustaría ajustar algo más? 
+
 🎥 Presentación:
 https://gamma.app/docs/Neuro-TX-Latam--ac94pz9q7jdvupq
 Aplicación:
